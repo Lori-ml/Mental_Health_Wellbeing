@@ -26,4 +26,4 @@ Data used for this project is retrieved from [County Health Ranks](https://www.c
 
 ## Acknowledgments
 
-Data was scraped from [County Health Ranks](https://www.countyhealthrankings.org/) website
+Data was scraped from [County Health Ranks](https://www.countyhealthrankings.org/) website.
