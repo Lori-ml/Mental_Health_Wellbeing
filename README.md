@@ -20,7 +20,7 @@ Data used for this project is retrieved from [County Health Ranks](https://www.c
 ## Files Description
 
 - *health_data_scraping.ipynb* - downloads, reads and cleans data files for years 2015 - 2020 from County Health Ranks program.
-- *EDA.ipynb* - Visualizes the data via line charts, density plot, box plots and choropleths. 
+- *EDA.ipynb* - Visualizes the data via line charts, density plot, box plots and choropleths.
 - *modeling.ipynb* - Compares different machine learning models for predicting mental health at state level. 
 
 
