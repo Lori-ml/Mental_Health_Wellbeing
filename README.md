@@ -11,7 +11,7 @@ pip install <package name here>
 Aim of this project is to: 
 
 1. Compare and predict mental health among different states in the US for years 2015 - 2020. 
-2. Describe how mental health rate differs across different counties and regions in US. 
+2. Describe how mental health differs across different counties and regions in US. 
 3. Provide an easy solution for scraping health dataset which can be easly modified for other years.
 
 Data used for this project is retrieved from [County Health Ranks](https://www.countyhealthrankings.org/) program, which as main data source has [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/questionnaires/index.htm) - nation's premier system of health-related telephone survey. 
@@ -19,9 +19,9 @@ Data used for this project is retrieved from [County Health Ranks](https://www.c
 
 ## Files Description
 
-- health_data_scraping.ipynb - downloads, reads and cleans data files for years 2015 - 2020 from County Health Ranks program.
-- EDA.ipynb - Visulizes the data via line charts, density plot, box plots and choropleths. 
-- modeling.ipynb - Compares different machine learning models for predicting mental health at state level. 
+- *health_data_scraping.ipynb* - downloads, reads and cleans data files for years 2015 - 2020 from County Health Ranks program.
+- *EDA.ipynb* - Visualizes the data via line charts, density plot, box plots and choropleths. 
+- *modeling.ipynb* - Compares different machine learning models for predicting mental health at state level. 
 
 
 ## Acknowledgments
