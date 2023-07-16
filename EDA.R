@@ -1,1 +1,0 @@
-MainStates <- map_data("state")
