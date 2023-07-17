@@ -12,7 +12,7 @@ Aim of this project is to:
 
 1. Compare and predict mental health among different states in the US for years 2015 - 2020. 
 2. Describe how mental health differs across different counties and regions in US. 
-3. Provide an easy solution for scraping health dataset which can be easly modified for other years.
+3. Provide an easy solution for scraping health dataset that can be easly modified for other years and attributes.
 
 Data used for this project is retrieved from [County Health Ranks](https://www.countyhealthrankings.org/) program, which as main data source has [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/questionnaires/index.htm) - nation's premier system of health-related telephone survey. 
 
