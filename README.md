@@ -3,7 +3,7 @@
 To run this code you need to install following libraries: pandas, numpy , urllib, matplotlib , plotly , sklearn, statsmodels. Use the following command to start the installation.
 
 ```bash
-pip install *<package name here>*
+pip install <package name here>
 ```
 
 ## Project Description
