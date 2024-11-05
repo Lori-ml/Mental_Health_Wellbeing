@@ -28,12 +28,3 @@ Data used for this project is retrieved from [County Health Ranks](https://www.c
 
 Data was scraped from [County Health Ranks](https://www.countyhealthrankings.org/) website.
 
-## Support my project :) 
-
-
-<p>If you find this project helpful, consider supporting me with a donation by clicking this button <a href="https://paypal.me/AnduelHoxha?country.x=US&locale.x=en_US"><img width="150" src="Donate-button.png"></a> or scan the QR code below:</p>
-
-![Donate QR Code](qrcode.png)
-
-
-
