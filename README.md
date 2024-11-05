@@ -30,12 +30,10 @@ Data was scraped from [County Health Ranks](https://www.countyhealthrankings.org
 
 ## Support my project 
 
-If you find this project helpful, consider supporting us with a donation by clicking this button  or scan the QR code below:
 
-<p>If you find this project helpful, consider supporting us with a donation by clicking this button <a href="https://paypal.me/AnduelHoxha?country.x=US&locale.x=en_US"><img width="150" src="Donate-button.png"></a> or scan the QR code below:</p>
+<p>If you find this project helpful, consider supporting me with a donation by clicking this button <a href="https://paypal.me/AnduelHoxha?country.x=US&locale.x=en_US"><img width="150" src="Donate-button.png"></a> or scan the QR code below:</p>
 
-![Donate QR Code](![qrcode](https://github.com/user-attachments/assets/de3f3aad-60c7-4890-a039-2bca9243df1f))
-
+![Donate QR Code](qrcode.png)
 
 
 
